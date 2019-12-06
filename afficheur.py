@@ -1,5 +1,7 @@
-from perceptron import Perceptron
 import csv
+
+from perceptron import Perceptron
+
 
 def import_inputs():
     inputs = []

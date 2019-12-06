@@ -1,5 +1,7 @@
 import csv
+
 import matplotlib.pyplot as plt
+
 
 class Perceptron:
 
